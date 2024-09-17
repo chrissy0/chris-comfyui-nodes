@@ -1,0 +1,14 @@
+[project]
+name = "chris-comfyui-nodes"
+description = "This repository contains a custom node for ComfyUI that pads an image to be square, filling the new pixels black."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/chrissy0/chris-comfyui-nodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "chris-comfyui-nodes"
+Icon = ""
